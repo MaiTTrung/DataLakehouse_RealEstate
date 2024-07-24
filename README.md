@@ -20,7 +20,7 @@ Predictive analytics models can be developed to forecast future market trends, a
 In a data-driven world, businesses that can effectively manage and analyze their data gain a significant competitive edge. They can make faster, more informed decisions, adapt to changing market conditions, and deliver superior customer experiences.
 ## 2. About Dataset
 ## 3. Building Data LakeHouse
-  3.1 Design
+  3.1 Design 
    
 ## 4. Create Dashboard
    4.1 Sumary Dashboard
