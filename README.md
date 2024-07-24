@@ -7,7 +7,7 @@
   3.1 Design 
    ![image](https://github.com/MaiTTrung/DataLakehouse_RealEstate/blob/main/Assets/architecture.png)
    ![image](https://github.com/MaiTTrung/DataLakehouse_RealEstate/blob/main/Assets/star_schema.png)
-   ![image](https://github.com/MaiTTrung/DataLakehouse_RealEstate/blob/main/Assets/ETL pipeline.png)
+   ![image](https://github.com/MaiTTrung/DataLakehouse_RealEstate/blob/main/Assets/ETL_pipeline.png)
 ## 4. Create Dashboard
    4.1 Sumary Dashboard
    ![image](https://github.com/MaiTTrung/DataLakehouse_RealEstate/blob/main/Assets/dashboard1.png)
